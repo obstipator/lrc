@@ -1,0 +1,4 @@
+lrc
+===
+
+lyrics for itunes
